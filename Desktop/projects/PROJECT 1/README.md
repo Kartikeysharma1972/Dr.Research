@@ -20,6 +20,14 @@
 
 I'm a **B.Tech student at Malaviya National Institute of Technology (MNIT) Jaipur** (2021-2025) specializing in **AI Agent Development** and **Machine Learning Engineering**. I build production-grade autonomous AI systems that solve real business problems through intelligent automation.
 
+### 🌟 My Motivation Story
+
+During my internship at Acsivi, I witnessed firsthand how businesses struggled with repetitive manual workflows that wasted countless hours and introduced human errors. I watched talented engineers spend days on tasks that could be automated in minutes. That's when it hit me — **AI agents aren't just cool technology, they're the solution to real business pain points**.
+
+I started building autonomous systems during late nights, fueled by coffee and curiosity. My first agent automated customer support ticket routing, reducing response time from hours to minutes. Seeing the impact — the relief on my team's faces, the satisfaction from customers — that was my "aha" moment. I realized I could build systems that don't just process data, but **understand context, make decisions, and learn from experience**.
+
+Today, I'm obsessed with creating AI agents that feel less like tools and more like capable team members. Systems that don't just follow instructions, but anticipate needs, adapt to new situations, and genuinely make work more meaningful for humans. This isn't just a career for me — it's a mission to bridge the gap between human potential and artificial intelligence.
+
 ### 💡 Core Expertise
 - **🤖 AI Agent Orchestration** with LangGraph & LangChain
 - **⚡ FastAPI Backend Development** for AI-powered services  
@@ -61,7 +69,7 @@ I'm a **B.Tech student at Malaviya National Institute of Technology (MNIT) Jaipu
 
 **📊 Metrics:** 3+ Agent Types • Real-time Streaming • RAG Knowledge Base • Auto Routing
 
-[🔗 Live Demo](#) • [📁 GitHub](https://github.com/Kartikeysharma1972) • [🎥 Video](#)
+[📁 GitHub](https://github.com/Kartikeysharma1972)
 
 ---
 
@@ -75,7 +83,7 @@ I'm a **B.Tech student at Malaviya National Institute of Technology (MNIT) Jaipu
 - 📡 Real-time thought streaming shows full reasoning process
 - 🎯 Self-reflective architecture for thoroughness
 
-[🔗 Live Demo](#) • [📁 GitHub](https://github.com/Kartikeysharma1972)
+[ GitHub](https://github.com/Kartikeysharma1972)
 
 ---
 
@@ -89,24 +97,10 @@ I'm a **B.Tech student at Malaviya National Institute of Technology (MNIT) Jaipu
 - 💡 Savings opportunities and anomaly detection  
 - 📈 Actionable financial insights with charts
 
-[🔗 Live Demo](#) • [📁 GitHub](https://github.com/Kartikeysharma1972)
+[📁 GitHub](https://github.com/Kartikeysharma1972)
 
 ---
 
-### 🏥 **Jarvis Health Assistant**
-*AI-powered health companion with medical facility finder*
-
-**🔧 Tech Stack:** LangGraph • Groq API • Maps API • FastAPI
-
-**⚡ Features:**
-- 🏥 Nearby medical facilities detection (5km range)
-- 💊 Medicine recommendations with photos
-- 🗺️ Google Maps integration for directions
-- ⚕️ Comprehensive disease information with safety guardrails
-
-[🔗 Live Demo](#) • [📁 GitHub](https://github.com/Kartikeysharma1972)
-
----
 
 ## 🛠️ Technical Stack
 
