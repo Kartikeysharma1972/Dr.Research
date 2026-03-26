@@ -71,6 +71,5 @@ SETUP_GUIDE.md
 QUICKSTART.md
 PROJECT_SUMMARY.md
 CONTRIBUTING.md
-*.txt
 run.ps1
 setup.ps1
